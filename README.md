@@ -24,7 +24,7 @@
 ## 🚀 Как запустить локально
 1. Склонируйте репозиторий:
    ```bash
-   git clone [https://github.com/nevseti/GreenFuel.git](https://github.com/nevseti/GreenFuel.git)
+   git clone https://github.com/nevseti/GreenFuel.git
    ```
 2. Откройте файл index.html в любом современном браузере.
 
